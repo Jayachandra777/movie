@@ -211,4 +211,5 @@ contract MovieBookingPlatform {
           "Transfer failed."
 
         );
-
+     }
+  }
